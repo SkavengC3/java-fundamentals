@@ -1,0 +1,3 @@
+size=11
+player1=ahahhahaha
+player2=ahahahahhaha
